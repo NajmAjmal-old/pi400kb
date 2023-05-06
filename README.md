@@ -25,7 +25,7 @@ Reboot!
 
 `sudo modprobe libcomposite`
 
-`wget https://github.com/Gadgetoid/pi400kb/blob/main/pi400kb?raw=true`
+`wget https://github.com/NajmAjmal/pi400kb/blob/main/pi400kb?raw=true`
 
 `chmod +x pi400kb`
 
