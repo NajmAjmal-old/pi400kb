@@ -25,7 +25,7 @@ Reboot!
 
 `sudo modprobe libcomposite`
 
-`wget https://github.com/NajmAjmal/pi400kb/blob/main/pi400kb?raw=true`
+`wget https://github.com/NajmAjmal/pi400kb/blob/main/pi400kb`
 
 `chmod +x pi400kb`
 
@@ -96,3 +96,5 @@ Supply these arguments when configuring with CMake, eg:
 ```
 cmake .. -DMOUSE_DEV="/dev/input/by-id/usb-EndGameGear_XM1_Gaming_Mouse_0000000000000000-event-mouse" -DMOUSE_VID=0x3367 -DMOUSE_PID=0x1903
 ```
+
+Credits: Gadgetoid
