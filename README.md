@@ -71,7 +71,7 @@ sudo systemctl enable pi400kb.service
 
 ```
 sudo apt install libconfig-dev
-git clone https://github.com/Gadgetoid/pi400kb
+git clone https://github.com/NajmAjmal/pi400kb
 cd pi400kb
 git submodule update --init
 mkdir build
